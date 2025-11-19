@@ -1,0 +1,11 @@
+[project]
+name = "gcalc"
+version = "0.1.0"
+description = "Gavin's Math Calculator"
+readme = "README.md"
+requires-python = ">=3.13"
+license-files = ["COPYING"]
+authors = [
+    {name = "gi-b716", email = "sganyunchi@163.com"}
+]
+dependencies = []
